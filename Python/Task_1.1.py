@@ -11,3 +11,6 @@ import numpy as np
 abc_a = np.arange(1,12,2)
 print(abc_a)
 
+#Масив написаний в ручну
+abs_m=np.array([1,2,3,4,5,6,7,8,9,10])
+print(abs_m)
